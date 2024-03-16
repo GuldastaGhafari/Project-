@@ -51,7 +51,7 @@ body{
     text-decoration: none;
     color:black;
     font-weight: bold;
-}/*
+}
 .f:hover{
     border-radius:15;
     transform:scale(0.1,0.1);
@@ -62,7 +62,7 @@ body{
     border-radius:15;
     transform:scale(0.1,0.1);
     transition:transform 1s;
-}*/
+}
 .footer{
     background-color: #344955;
     position: fixed;

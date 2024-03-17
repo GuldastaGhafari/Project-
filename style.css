@@ -53,12 +53,12 @@ body{
     font-weight: bold;
 }
 .f:hover{
-	width:35%;
+	width:33%;
 	height:370px;
 }
 .b:hover{
      width:275px;
-     height:375px;
+     height:275px;
 }
 .footer{
     background-color: #344955;
@@ -104,7 +104,7 @@ body{
 }
 .play1{
   position:absolute;
-  bottom:75;
+  bottom:50px;
   font-size: 50;
   right:110px;
 }
@@ -112,21 +112,22 @@ body{
 
 .play2{
     position:absolute;
-    bottom:75;
+    bottom:50px;
     font-size: 50;
     left:380px;
 }
 
 .play3{
   position:absolute;
-  bottom:75;
+  bottom:50px;
   font-size: 50;
   left:100px;
 }
 
 .icon{
     position:absolute;
-    bottom:190;
+    bottom:100px;
+    
     
 }
 

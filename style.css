@@ -1,4 +1,4 @@
-body{
+7body{
     margin:0;
     padding:0;
     background-color:#35374B;
@@ -168,3 +168,19 @@ body{
 .page a:hover:not(.active){
     background-color: white hsl(0,0%,70%);
 }
+.g{
+	        width:700px;
+	        height:1100px;
+	        background-color:#67C6E3;
+	        display:inline-block;
+	        margin-left: 40px;
+	        margin-right:40px;
+	        margin-top:40px;
+	        border-style:outset;
+	        border-width:3px;
+	        border-color:black;
+	        border-radius: 10px;
+	        padding-right:10px;
+	        padding-left:10px;
+	        }
+	        

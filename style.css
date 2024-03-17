@@ -52,12 +52,7 @@
     color:black;
     font-weight: bold;
 }
-.f:hover{
-    border-radius:15;
-    transform:scale(0.1,0.1);
-    transition:width height 1s;
-    
-}
+
 .b:hover{
     border-radius:15;
     transform:scale(0.1,0.1);

@@ -58,7 +58,7 @@ body{
 }
 .b:hover{
      width:275px;
-     height:275px;
+     height:150px;
 }
 .footer{
     background-color: #344955;
@@ -104,29 +104,31 @@ body{
 }
 .play1{
   position:absolute;
-  bottom:50px;
-  font-size: 50;
+  bottom:70px;
+  font-size: 80px;
   right:110px;
 }
 
 
 .play2{
     position:absolute;
-    bottom:50px;
-    font-size: 50;
+    bottom:70px;
+    font-size: 80px;
     left:380px;
 }
 
 .play3{
   position:absolute;
-  bottom:50px;
-  font-size: 50;
+  bottom:70px;
+  font-size: 80px;
   left:100px;
 }
 
 .icon{
     position:absolute;
-    bottom:100px;
+    bottom:150px;
+    font-size:80px;
+
     
     
 }
